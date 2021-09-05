@@ -36,6 +36,7 @@ This bot contains more than **61 commands** in **11 categories**!
 - [Mute](#mute-4-commands)
 - [Warn](#warn-3-commands)
 
+
 ## Basic (7 commands)
 
 ### `help`
@@ -236,10 +237,10 @@ This bot contains more than **61 commands** in **11 categories**!
 ##### Command Info:
 
 - Description: Sets the available repeat mode to the current playlist.
-  All Repeat Mode:
-  "0" - Disable,
-  "1" - Repeat a song,
-  "2" - Repeat all the queue.
+All Repeat Mode:
+"0" - Disable,
+"1" - Repeat a song,
+"2" - Repeat all the queue.
 - Usage: vs setrepeat [Repeat_Mode]
 - Aliases: `sr`
 - Cooldown: None
@@ -267,8 +268,8 @@ This bot contains more than **61 commands** in **11 categories**!
 ##### Command Info:
 
 - Description: Sets the Available filter to the current playlist.
-  All Filters:
-  "3d","bassboost","echo","karaoke","nightcore","vaporwave","flanger","gate","haas","reverse","surround","mcompand","phaser","tremolo","earwax"
+All Filters:
+"3d","bassboost","echo","karaoke","nightcore","vaporwave","flanger","gate","haas","reverse","surround","mcompand","phaser","tremolo","earwax"
 - Usage: vs setfilter [Filter_Name]
 - Aliases: `fil`, `sf`
 - Cooldown: None
@@ -327,8 +328,8 @@ This bot contains more than **61 commands** in **11 categories**!
 ##### Command Info:
 
 - Description: Delets the given number of messages within 14 days for the timeinterval given.
-  Minimum Time Interval supported is "15 seconds".
-  Recommended is table of 15 for seconds.
+Minimum Time Interval supported is "15 seconds".
+Recommended is table of 15 for seconds.
 - Usage: vs autodelete [start/stop]
 - Aliases: `autodel`
 - Cooldown: None
@@ -347,8 +348,8 @@ This bot contains more than **61 commands** in **11 categories**!
 ##### Command Info:
 
 - Description: Set a TimeZone for your server.
-  Check the help menu homepage for timezone website links.
-  TimeZone Eg: "Asia/Kolkata"
+Check the help menu homepage for timezone website links.
+TimeZone Eg: "Asia/Kolkata"
 - Usage: vs settimezone [TimeZone]
 - Aliases: `settz`
 - Cooldown: None
@@ -385,7 +386,7 @@ This bot contains more than **61 commands** in **11 categories**!
 ##### Command Info:
 
 - Description: Set your server welcome channel.
-  Use custom background, Recommended size 700x250.
+ Use custom background, Recommended size 700x250.
 - Usage: vs setwelcome [true/false] (custom_img_URL)
 - Aliases: None
 - Cooldown: None
@@ -395,7 +396,7 @@ This bot contains more than **61 commands** in **11 categories**!
 ##### Command Info:
 
 - Description: Sets the given role to be assigned to new joining member.
-- Usage: vs setjoinrole [true/false] [roleId]
+- Usage: vs setjoinrole [true/false] [#role]
 - Aliases: `sjr`
 - Cooldown: 10
 
@@ -518,7 +519,7 @@ This bot contains more than **61 commands** in **11 categories**!
 ##### Command Info:
 
 - Description: Deletes 100 messages from current channel if amount is not given.
-  Only message within 14 days will be deleted.
+Only message within 14 days will be deleted.
 - Usage: vs purge (amount)
 - Aliases: `clear`, `clearchannel`, `cc`
 - Cooldown: None
@@ -546,7 +547,7 @@ This bot contains more than **61 commands** in **11 categories**!
 ##### Command Info:
 
 - Description: Updates the status of a suggestion.
-  Available Status: WAITING,ACCEPTED,DENIED
+Available Status: WAITING,ACCEPTED,DENIED
 - Usage: vs suggestion [messageId] [status] (reason)
 - Aliases: `sugg`
 - Cooldown: None
