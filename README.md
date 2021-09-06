@@ -396,7 +396,7 @@ TimeZone Eg: "Asia/Kolkata"
 ##### Command Info:
 
 - Description: Sets the given role to be assigned to new joining member.
-- Usage: vs setjoinrole [true/false] [#role]
+- Usage: vs setjoinrole [true/false] [@role]
 - Aliases: `sjr`
 - Cooldown: 10
 
@@ -619,4 +619,4 @@ Available Status: WAITING,ACCEPTED,DENIED
 - Aliases: `rw`
 - Cooldown: None
 
-[Invite](https://discord.com/oauth2/authorize?client_id=863591426037907496&scope=bot%20applications.commands&permissions=4294967295) | [Vote](https://top.gg/bot/863591426037907496/vote) | [Support Discord](https://discord.gg/yDWHwwC) | [Document](https://github.com/vsrock12/itsvs-Official)
+[Invite](https://discord.com/oauth2/authorize?client_id=863591426037907496&scope=bot%20applications.commands&permissions=4294967295) | [Vote](https://top.gg/bot/863591426037907496/vote) | [Support Discord](https://discord.gg/yDWHwwC) | [Documentation](https://github.com/vsrock12/itsvs-Official)
