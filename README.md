@@ -44,7 +44,7 @@ This bot contains more than **61 commands** in **11 categories**!
 ##### Command Info:
 
 - Description: Describes all of this bots commands.
-- Usage: vs help (Command_Name)
+- Usage: vs help (Command_Name/Category_Name)
 - Aliases: `h`
 - Cooldown: None
 
@@ -386,8 +386,15 @@ TimeZone Eg: "Asia/Kolkata"
 ##### Command Info:
 
 - Description: Set your server welcome channel.
- Use custom background, Recommended size 700x250.
-- Usage: vs setwelcome [true/false] (custom_img_URL)
+Use custom Welcome Message, Available PlaceHolders:
+{mention} - Mentions the User
+{tag} - User Tag
+{userid} - User ID
+{servername} - Server Name
+{serverid} - Server ID
+{membercount} - Shows the Joining Member Count,
+Use custom background, Recommended size 700x250.
+- Usage: vs setwelcome
 - Aliases: None
 - Cooldown: None
 
