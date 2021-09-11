@@ -395,7 +395,7 @@ Use custom Welcome Message, Available PlaceHolders:
 {membercount} - Shows the Joining Member Count,
 Use custom background, Recommended size 700x250.
 - Usage: vs setwelcome
-- Aliases: None
+- Aliases: `setwel`
 - Cooldown: None
 
 ### `setjoinrole`
