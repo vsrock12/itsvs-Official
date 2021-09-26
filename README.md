@@ -1,6 +1,6 @@
 # **itsvs Official**
 
-This bot contains more than **61 commands** in **11 categories**!
+This bot contains more than **62 commands** in **12 categories**!
 
 - [Invite](https://discord.com/oauth2/authorize?client_id=863591426037907496&scope=bot%20applications.commands&permissions=4294967295)
 - [Support Discord](https://discord.gg/yDWHwwC)
@@ -29,6 +29,7 @@ This bot contains more than **61 commands** in **11 categories**!
 - [Fun](#fun-1-commands)
 - [Music](#music-18-commands)
 - [Achievement](#achievement-3-commands)
+- [Auto Moderation](#auto-moderation-1-commands)
 - [Configuration](#configuration-10-commands)
 - [Giveaway](#giveaway-3-commands)
 - [Send/Edit Bot Message](#sendedit-bot-message-6-commands)
@@ -111,7 +112,7 @@ This bot contains more than **61 commands** in **11 categories**!
 - Description: Provides a random memes.
 - Usage: vs memes
 - Aliases: `meme`
-- Cooldown: 30
+- Cooldown: 30 Seconds
 
 ## Music (18 commands)
 
@@ -312,6 +313,18 @@ All Filters:
 - Aliases: `ra`
 - Cooldown: None
 
+## Auto Moderation (1 commands)
+
+### `antiinvite`
+
+##### Command Info:
+
+- Description: Disables Invites from other Discord Servers,
+Mention all the roles which will be immune from this system.
+- Usage: vs antiinvite [true/false] (@roles)
+- Aliases: `ai`
+- Cooldown: 5 Seconds
+
 ## Configuration (10 commands)
 
 ### `autopublish`
@@ -405,7 +418,7 @@ Use custom background, Recommended size 700x250.
 - Description: Sets the given role to be assigned to new joining member.
 - Usage: vs setjoinrole [true/false] [@role]
 - Aliases: `sjr`
-- Cooldown: 10
+- Cooldown: 10 Seconds
 
 ### `setleft`
 
@@ -538,7 +551,7 @@ Only message within 14 days will be deleted.
 - Description: Adds the given emoji to the server.
 - Usage: vs addemoji [emoji] [EmojiName]
 - Aliases: `ae`
-- Cooldown: 2
+- Cooldown: 2 Seconds
 
 ### `userinfo`
 
