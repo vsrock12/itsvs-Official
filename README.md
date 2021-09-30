@@ -1,6 +1,6 @@
 # **itsvs Official**
 
-This bot contains more than **62 commands** in **12 categories**!
+This bot contains more than **63 commands** in **12 categories**!
 
 - [Invite](https://discord.com/oauth2/authorize?client_id=863591426037907496&scope=bot%20applications.commands&permissions=4294967295)
 - [Support Discord](https://discord.gg/yDWHwwC)
@@ -29,7 +29,7 @@ This bot contains more than **62 commands** in **12 categories**!
 - [Fun](#fun-1-commands)
 - [Music](#music-18-commands)
 - [Achievement](#achievement-3-commands)
-- [Auto Moderation](#auto-moderation-1-commands)
+- [Auto Moderation](#auto-moderation-2-commands)
 - [Configuration](#configuration-10-commands)
 - [Giveaway](#giveaway-3-commands)
 - [Send/Edit Bot Message](#sendedit-bot-message-6-commands)
@@ -313,7 +313,7 @@ All Filters:
 - Aliases: `ra`
 - Cooldown: None
 
-## Auto Moderation (1 commands)
+## Auto Moderation (2 commands)
 
 ### `antiinvite`
 
@@ -323,6 +323,15 @@ All Filters:
 Mention all the roles which will be immune from this system.
 - Usage: vs antiinvite [true/false] (@roles)
 - Aliases: `ai`
+- Cooldown: 5 Seconds
+
+### `blockword`
+
+##### Command Info:
+
+- Description: Setup blocklisted words.
+- Usage: vs blockword
+- Aliases: `bw`
 - Cooldown: 5 Seconds
 
 ## Configuration (10 commands)
