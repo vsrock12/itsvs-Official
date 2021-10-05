@@ -1,6 +1,6 @@
 # **itsvs Official**
 
-This bot contains more than **64 commands** in **12 categories**!
+This bot contains more than **65 commands** in **12 categories**!
 
 - [Invite](https://discord.com/oauth2/authorize?client_id=863591426037907496&scope=bot%20applications.commands&permissions=4294967295)
 - [Support Discord](https://discord.gg/yDWHwwC)
@@ -30,7 +30,7 @@ This bot contains more than **64 commands** in **12 categories**!
 - [Music](#music-18-commands)
 - [Achievement](#achievement-3-commands)
 - [Auto Moderation](#auto-moderation-3-commands)
-- [Configuration](#configuration-10-commands)
+- [Configuration](#configuration-11-commands)
 - [Giveaway](#giveaway-3-commands)
 - [Send/Edit Bot Message](#sendedit-bot-message-6-commands)
 - [Moderation](#moderation-6-commands)
@@ -343,7 +343,7 @@ Mentioned roles will be immune from this system.
 - Aliases: `bs`
 - Cooldown: 5 Seconds
 
-## Configuration (10 commands)
+## Configuration (11 commands)
 
 ### `autopublish`
 
@@ -373,6 +373,15 @@ Recommended is table of 15 for seconds.
 - Usage: vs setprefix [New_Prefix]
 - Aliases: None
 - Cooldown: None
+
+### `statssetup`
+
+##### Command Info:
+
+- Description: Creates Channels for member count.
+- Usage: vs statssetup
+- Aliases: `countersetup`, `ssetup`
+- Cooldown: 5 Seconds
 
 ### `settimezone`
 
