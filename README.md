@@ -1,6 +1,6 @@
 # **itsvs Official**
 
-This bot contains more than **65 commands** in **12 categories**!
+This bot contains more than **66 commands** in **12 categories**!
 
 - [Invite](https://discord.com/oauth2/authorize?client_id=863591426037907496&scope=bot%20applications.commands&permissions=4294967295)
 - [Support Discord](https://discord.gg/yDWHwwC)
@@ -26,7 +26,7 @@ This bot contains more than **65 commands** in **12 categories**!
 # Table of contents
 
 - [Basic](#basic-7-commands)
-- [Fun](#fun-1-commands)
+- [Fun](#fun-2-commands)
 - [Music](#music-18-commands)
 - [Achievement](#achievement-3-commands)
 - [Auto Moderation](#auto-moderation-3-commands)
@@ -103,7 +103,7 @@ This bot contains more than **65 commands** in **12 categories**!
 - Aliases: `v`
 - Cooldown: None
 
-## Fun (1 commands)
+## Fun (2 commands)
 
 ### `memes`
 
@@ -113,6 +113,15 @@ This bot contains more than **65 commands** in **12 categories**!
 - Usage: vs memes
 - Aliases: `meme`
 - Cooldown: 30 Seconds
+
+### `emojify`
+
+##### Command Info:
+
+- Description: Converts the given text into emoji.
+- Usage: vs emojify [text]
+- Aliases: `emg`
+- Cooldown: 5 Seconds
 
 ## Music (18 commands)
 
