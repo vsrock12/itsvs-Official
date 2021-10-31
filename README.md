@@ -1,6 +1,6 @@
 # **itsvs Official**
 
-This bot contains more than **66 commands** in **12 categories**!
+This bot contains more than **69 commands** in **13 categories**!
 
 - [Invite](https://discord.com/oauth2/authorize?client_id=863591426037907496&scope=bot%20applications.commands&permissions=4294967295)
 - [Support Discord](https://discord.gg/yDWHwwC)
@@ -33,6 +33,7 @@ This bot contains more than **66 commands** in **12 categories**!
 - [Configuration](#configuration-11-commands)
 - [Giveaway](#giveaway-3-commands)
 - [Send/Edit Bot Message](#sendedit-bot-message-6-commands)
+- [Auto Send Message](#auto-send-message-3-commands)
 - [Moderation](#moderation-6-commands)
 - [Mute](#mute-4-commands)
 - [Warn](#warn-3-commands)
@@ -549,6 +550,35 @@ Use custom background, Recommended size 700x250.
 - Usage: vs bulkdelete [#channel] [messageCount]
 - Aliases: `bd`
 - Cooldown: None
+
+## Auto Send Message (3 commands)
+
+### `autosend`
+
+##### Command Info:
+
+- Description: Automatically send a given message in given interval.
+- Usage: vs autosend
+- Aliases: `asd`
+- Cooldown: 5 Seconds
+
+### `autosendlist`
+
+##### Command Info:
+
+- Description: Lists the Automated messages.
+- Usage: vs autosendlist
+- Aliases: `asdl`
+- Cooldown: 5 Seconds
+
+### `autosenddelete`
+
+##### Command Info:
+
+- Description: Delets Automated messages to stop them from sending.
+- Usage: vs autosenddelete
+- Aliases: `asdd`
+- Cooldown: 5 Seconds
 
 ## Moderation (6 commands)
 
