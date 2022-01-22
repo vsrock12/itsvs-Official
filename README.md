@@ -1,6 +1,6 @@
 # **itsvs Official**
 
-This bot contains more than **69 commands** in **13 categories**!
+This bot contains more than **70 commands** in **13 categories**!
 
 - [Invite](https://discord.com/oauth2/authorize?client_id=863591426037907496&scope=bot%20applications.commands&permissions=4294967295)
 - [Support Discord](https://discord.gg/yDWHwwC)
@@ -27,7 +27,7 @@ This bot contains more than **69 commands** in **13 categories**!
 
 - [Basic](#basic-7-commands)
 - [Fun](#fun-2-commands)
-- [Music](#music-18-commands)
+- [Music](#music-19-commands)
 - [Achievement](#achievement-3-commands)
 - [Auto Moderation](#auto-moderation-3-commands)
 - [Configuration](#configuration-11-commands)
@@ -124,7 +124,7 @@ This bot contains more than **69 commands** in **13 categories**!
 - Aliases: `emg`
 - Cooldown: 5 Seconds
 
-## Music (18 commands)
+## Music (19 commands)
 
 ### `play`
 
@@ -273,6 +273,15 @@ All Repeat Mode:
 - Usage: vs autoplay
 - Aliases: `ap`
 - Cooldown: None
+
+### `setautoplay`
+
+##### Command Info:
+
+- Description: Sets autoplay setting for the server.
+- Usage: vs setautoplay true/false
+- Aliases: `sap`
+- Cooldown: 5 Seconds
 
 ### `setfilter`
 
