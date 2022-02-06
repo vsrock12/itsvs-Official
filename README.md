@@ -370,7 +370,7 @@ Mentioned roles will be immune from this system.
 
 - Description: Automatically Publish all the messages from every announcement channel on the server.
 - Usage: vs autopublish [true/false]
-- Aliases: `sap`
+- Aliases: `apm`
 - Cooldown: None
 
 ### `autodelete`
