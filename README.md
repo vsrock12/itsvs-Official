@@ -2,7 +2,7 @@
 
 This bot contains more than **70 commands** in **13 categories**!
 
-- [Invite](https://discord.com/oauth2/authorize?client_id=863591426037907496&scope=bot%20applications.commands&permissions=4294967295)
+- [Invite](https://discord.com/oauth2/authorize?client_id=863591426037907496&permissions=1644971949567&scope=bot%20applications.commands)
 - [Support Discord](https://discord.gg/yDWHwwC)
 
 <div align="center">
@@ -714,4 +714,4 @@ Available Status: WAITING,ACCEPTED,DENIED
 - Aliases: `rw`
 - Cooldown: None
 
-[Invite](https://discord.com/oauth2/authorize?client_id=863591426037907496&scope=bot%20applications.commands&permissions=1099511627775) | [Vote](https://top.gg/bot/863591426037907496/vote) | [Support Discord](https://discord.gg/yDWHwwC) | [Documentation](https://github.com/vsrock12/itsvs-Official)
+[Invite](https://discord.com/oauth2/authorize?client_id=863591426037907496&permissions=1644971949567&scope=bot%20applications.commands) | [Vote](https://top.gg/bot/863591426037907496/vote) | [Support Discord](https://discord.gg/yDWHwwC) | [Documentation](https://github.com/vsrock12/itsvs-Official)
